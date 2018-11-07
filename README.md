@@ -1,7 +1,7 @@
 
-# Calculating Distance Lab More Tests
+# Calculating Distance Lab
 
-### Introduction
+### Introduction yo
 
 In this lab, you will write methods to calculate the distance of various neighbors from each other.  Once again, let's assume that the $x$ coordinates represent avenues of a neighbor, the $y$ coordinates represent streets.  We will also assume that the distance between each street and the distance between each avenue is the same.
 
@@ -190,3 +190,5 @@ nearest_neighbors(fred, neighbors, 2)
 ### Summary
 
 In this lab, you built out the nearest neighbors.  We'll review building out these functions in the next section.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/data-science-readme-test'>data-science-readme-test</a> on Learn.co and start learning to code for free.</p>
