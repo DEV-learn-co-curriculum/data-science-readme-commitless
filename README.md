@@ -1,6 +1,7 @@
 
 # Calculating Distance Lab
 
+
 ### Introduction more updates
 
 In this lab, you will write methods to calculate the distance of various neighbors from each other.  Once again, let's assume that the $x$ coordinates represent avenues of a neighbor, the $y$ coordinates represent streets.  We will also assume that the distance between each street and the distance between each avenue is the same.
